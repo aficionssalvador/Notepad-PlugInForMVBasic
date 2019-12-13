@@ -7,4 +7,4 @@ Problems Detected: The character "*" is misinterpreted as comment instead of bei
 
 ---
 
-PS: I have added some Google-owned sources that have the character 0 with the /
+PS: I have added some Google-owned font's that have the character 0 with the /
